@@ -554,7 +554,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Invide](https://invidelabs.com/developer.html) - Invite-only community of experienced remote developers since 2016. Also has a [public discord community](https://dsc.gg/invide) for newbies.
 
 ## Conferences
-  1. [Yonder](https://www.yonder.io/events) - A round table conference bringing together leaders of distributed companies.
   1. [9punto5](https://www.9punto5.cl/) - Remote work conference in Latin America.
   1. [Git Commit Show](https://gitcommit.show/) - Global Developer Conference to promote remote work an education, attend from anywhwere
 
